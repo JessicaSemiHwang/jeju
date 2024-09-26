@@ -37,4 +37,4 @@
 
 ## 🔰구조
 
-[![image.png](image.png)](https://www.notion.so/Project-Name-ef6434962dca4d7f8d17d246f04b0c06?pvs=4#10defc203502805c83dcff10461306cc)
+[![image.png](image.png)](https://www.notion.so/Team-Leader-d3c486d8d29e4938a845f2932587ed14?pvs=4#10defc203502804eb7a6e8b8ae18fd26)
