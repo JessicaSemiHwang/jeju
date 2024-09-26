@@ -37,4 +37,4 @@
 
 ## 🔰구조
 
-[![image.png](image.png)](https://github.com/user-attachments/assets/fc05452b-542f-497b-b49b-ba209e840201)
+![스크린샷](https://github.com/user-attachments/assets/fc05452b-542f-497b-b49b-ba209e840201)
