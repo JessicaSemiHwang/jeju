@@ -1,6 +1,3 @@
-
-![TEST](https://github.com/user-attachments/assets/ebbe8063-4818-4eb6-9f2d-36c6e6d4d9c6)
-
 # Project Name : 집앞제주
 
 ## 🔰프로젝트 소개
