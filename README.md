@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1a3f9008-4e63-4555-aea4-5cba0523150e)
+
+![TEST](https://github.com/JessicaSemiHwang/jeju/issues/2#issue-2563631996)
 
 # Project Name : 집앞제주
 
